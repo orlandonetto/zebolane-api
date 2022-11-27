@@ -1,0 +1,19 @@
+{
+  "name": "zabolane-api",
+  "version": "1.0.0",
+  "description": "API de um bolão feito em familia para os jogos da copa do mundo, onde é sorteado jogadores para os participantes e o primeiro jogaor a marcar gol o participante que tirou esse jogador ganha o premio.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test:unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlandonetto/zebolane-api.git"
+  },
+  "author": "orlandonetto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlandonetto/zebolane-api/issues"
+  },
+  "homepage": "https://github.com/orlandonetto/zebolane-api#readme"
+}
